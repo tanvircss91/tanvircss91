@@ -8,10 +8,6 @@
 https://github.com/user-attachments/assets/2d53bf05-d9b5-4fc7-9775-178a1bd228fd
 
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/2d53bf05-d9b5-4fc7-9775-178a1bd228fd" autoplay loop muted playsinline controls>
-  </video>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanvircss91&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" alt="Profile Views"/>
