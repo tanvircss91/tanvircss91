@@ -14,7 +14,7 @@
 <div align="center">
   <h3>⟢ CYBER VISITOR MONITOR ⟣</h3>
 </div>
-![](https://komarev.com/ghpvc/?username=tanvircss91&abbreviated=true)
+https://komarev.com/ghpvc/?username=tanvircss91&abbreviated=true
 
 # About Me : 
 
