@@ -47,6 +47,38 @@
 # 🛡️ Cybersecurity Skills & Technologies
 
 
+<h2 align="center">⚡ My Cybersecurity Skills</h2>
+
+<p align="center">
+  <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.simpleicons.org/kalilinux/557C94" width="65" height="65" alt="Kali Linux"/></a>&nbsp;
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="65" height="65" alt="Ubuntu"/></a>&nbsp;
+  <a href="https://parrotsec.org/" target="_blank"><img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" width="65" height="65" alt="Parrot OS"/></a>&nbsp;
+  <a href="https://blackarch.org/" target="_blank"><img src="https://img.shields.io/badge/BlackArch-181818?style=for-the-badge&logo=archlinux&logoColor=white" height="65" alt="BlackArch"/></a>&nbsp;
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.simpleicons.org/windows/0078D4" width="65" height="65" alt="Windows"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="65" height="65" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.apple.com/macos/" target="_blank"><img src="https://cdn.simpleicons.org/apple/FFFFFF" width="65" height="65" alt="macOS"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.android.com/" target="_blank"><img src="https://cdn.simpleicons.org/android/3DDC84" width="65" height="65" alt="Android"/></a>&nbsp;
+  <a href="https://www.apple.com/ios/" target="_blank"><img src="https://cdn.simpleicons.org/apple/FFFFFF" width="65" height="65" alt="iOS"/></a>&nbsp;
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="65" height="65" alt="Wireshark"/></a>&nbsp;
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/2596CD" width="65" height="65" alt="Metasploit"/></a>&nbsp;
+  <a href="https://tails.net/" target="_blank"><img src="https://cdn.simpleicons.org/tails/56347C" width="65" height="65" alt="Tails"/></a>&nbsp;
+  <a href="https://www.torproject.org/" target="_blank"><img src="https://cdn.simpleicons.org/torbrowser/7D4698" width="65" height="65" alt="Dark Web / Tor"/></a>&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="65" height="65" alt="VS Code"/></a>
+</p>
+
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python"/></a>&nbsp;
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" width="65" height="65" alt="HTML5"/></a>&nbsp;
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" width="65" height="65" alt="CSS3"/></a>&nbsp;
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="65" alt="Burp Suite"/></a>&nbsp;
+  <a href="https://osintframework.com/" target="_blank"><img src="https://img.shields.io/badge/OSINT-123456?style=for-the-badge&logo=google&logoColor=white" height="65" alt="OSINT"/></a>&nbsp;
+  <a href="https://www.google.com/" target="_blank"><img src="https://cdn.simpleicons.org/google/4285F4" width="65" height="65" alt="Google Dorking"/></a>&nbsp;
+  <a href="https://www.shodan.io/" target="_blank"><img src="https://img.shields.io/badge/Information_Gathering-00A884?style=for-the-badge&logo=search&logoColor=white" height="65" alt="Information Gathering"/></a>
+</p>
+
 
 ## 🔎 Cybersecurity Focus
 
