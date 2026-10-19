@@ -7,8 +7,10 @@
 
 https://github.com/user-attachments/assets/2d53bf05-d9b5-4fc7-9775-178a1bd228fd
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+World;Ethical+Hacking+%7C+Cybersecurity;SOC+Analysis+%7C+Network+Security;Learning.+Securing.+Growing." alt="Typing SVG"/>
+  <video src="https://github.com/user-attachments/assets/2d53bf05-d9b5-4fc7-9775-178a1bd228fd" autoplay loop muted playsinline controls>
+  </video>
 </p>
 
 <p align="center">
