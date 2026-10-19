@@ -14,7 +14,10 @@
 <div align="center">
   <h3>⟢ CYBER VISITOR MONITOR ⟣</h3>
 </div>
-![Profile Views](https://komarev.com/ghpvc/?username=tanvircss91&color=blueviolet&style=for-the-badge)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanvircss91&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 # About Me : 
 
