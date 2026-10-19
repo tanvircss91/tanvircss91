@@ -15,12 +15,23 @@
 
   <h3>⟢ CYBER VISITOR MONITOR ⟣</h3>
 
-  <p align="center">
+ 
+<div align="center">
+
+  <h3>◈ VISITOR INTELLIGENCE SYSTEM ◈</h3>
+
   <img
-    src="https://komarev.com/ghpvc/?username=tanvircss91&label=CYBER%20VISITORS&color=00e5ff&style=for-the-badge"
-    alt="Cyber Visitor Counter"
+    src="https://komarev.com/ghpvc/?username=tanvircss91&label=TOTAL%20PROFILE%20ACCESS&color=00E5FF&style=for-the-badge"
+    alt="Profile Visitor Counter"
   />
-</p>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/◉_NETWORK-CYBER_NODE-07111D?style=for-the-badge&labelColor=07111D" alt="Cyber Node"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00C853?style=for-the-badge&labelColor=07111D" alt="Status"/>
+
+</div>
+
 </div>
 
 # About Me : 
