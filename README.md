@@ -43,8 +43,43 @@
 
 # 🧠 Skills & Technologies
 ## Programming language skills = Basic+
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,mac,parrot,blackarch,github,vscode,python,html,css" alt="Technical Skills"/>
+## 🛠️ Skills & Technologies
+
+### 💻 Operating Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Parrot_OS-15AABF?style=for-the-badge&logo=linux&logoColor=white" alt="Parrot OS"/>
+  <img src="https://img.shields.io/badge/BlackArch-111111?style=for-the-badge&logo=archlinux&logoColor=white" alt="BlackArch"/>
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+</p>
+
+### 🔐 Cybersecurity Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white" alt="Tails"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+</p>
+
+### 🕵️ Security Research
+<p align="left">
+  <img src="https://img.shields.io/badge/OSINT-Research-2E8B57?style=for-the-badge" alt="OSINT"/>
+  <img src="https://img.shields.io/badge/Google_Dorking-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Dorking"/>
+  <img src="https://img.shields.io/badge/Information_Gathering-Recon-6A5ACD?style=for-the-badge" alt="Information Gathering"/>
+  <img src="https://img.shields.io/badge/Dark_Web-Research-333333?style=for-the-badge" alt="Dark Web Research"/>
+</p>
+
+### 👨‍💻 Development Tools & Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ## 🔎 Cybersecurity Focus
