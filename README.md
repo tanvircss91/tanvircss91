@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/tanvircss91/tanvircss91/blob/main/tanvir.png"
+    src="https://github.com/tanvircss91/tanvircss91/blob/main/tanvir.mp4"
     width="100%"
   />
 </p>
