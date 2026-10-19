@@ -13,14 +13,8 @@
 
 <div align="center">
   <h3>⟢ CYBER VISITOR MONITOR ⟣</h3>
-<p align="center">
-  <img
-    src="https://viewcounter.live/YOUR_GITHUB_USERNAME?label=PROFILE%20VISITS&bg_color=050B12&text_color=00E5FF&rounded=true&digits=6"
-    alt="Cyber Digital Profile Views"
-  />
-</p>
-
 </div>
+![](https://komarev.com/ghpvc/?username=tanvircss91&abbreviated=true)
 
 # About Me : 
 
