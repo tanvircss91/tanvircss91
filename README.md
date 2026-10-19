@@ -46,34 +46,36 @@
 
 # 🛡️ Cybersecurity Skills & Technologies
 
+## 🛡️ Cybersecurity Skills
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=17202A" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=17202A" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/Parrot_OS-15AABF?style=for-the-badge&logo=linux&logoColor=white&labelColor=17202A" alt="Parrot OS" />
-  <img src="https://img.shields.io/badge/BlackArch-111111?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=17202A" alt="BlackArch" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=17202A" alt="Windows" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=17202A" alt="GitHub" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=17202A" alt="macOS" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=17202A" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=17202A" alt="iOS" />
+  <img src="icons/kali-linux.svg" width="72" alt="Kali Linux" />
+  <img src="icons/ubuntu.svg" width="72" alt="Ubuntu" />
+  <img src="icons/parrot.svg" width="72" alt="Parrot OS" />
+  <img src="icons/blackarch.svg" width="72" alt="BlackArch" />
+  <img src="icons/windows.svg" width="72" alt="Windows" />
+  <img src="icons/github.svg" width="72" alt="GitHub" />
+  <img src="icons/mac.svg" width="72" alt="macOS" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=17202A" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=17202A" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white&labelColor=17202A" alt="Tails" />
-  <img src="https://img.shields.io/badge/Dark_Web-333333?style=for-the-badge&logo=torproject&logoColor=white&labelColor=17202A" alt="Dark Web" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=17202A" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=17202A" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=17202A" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=17202A" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=17202A" alt="Burp Suite" />
+  <img src="icons/android.svg" width="72" alt="Android" />
+  <img src="icons/ios.svg" width="72" alt="iOS" />
+  <img src="icons/wireshark.svg" width="72" alt="Wireshark" />
+  <img src="icons/metasploit.svg" width="72" alt="Metasploit" />
+  <img src="icons/tails.svg" width="72" alt="Tails" />
+  <img src="icons/dark-web.svg" width="72" alt="Dark Web" />
+  <img src="icons/vscode.svg" width="72" alt="VS Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OSINT-Research-00804A?style=for-the-badge&labelColor=17202A" alt="OSINT" />
-  <img src="https://img.shields.io/badge/Google_Dorking-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=17202A" alt="Google Dorking" />
-  <img src="https://img.shields.io/badge/Information_Gathering-Recon-6A35B5?style=for-the-badge&labelColor=17202A" alt="Information Gathering" />
+  <img src="icons/python.svg" width="72" alt="Python" />
+  <img src="icons/html.svg" width="72" alt="HTML5" />
+  <img src="icons/css.svg" width="72" alt="CSS3" />
+  <img src="icons/burpsuite.svg" width="72" alt="Burp Suite" />
+  <img src="icons/osint.svg" width="72" alt="OSINT" />
+  <img src="icons/dorking.svg" width="72" alt="Google Dorking" />
+  <img src="icons/information-gathering.svg" width="72" alt="Information Gathering" />
 </p>
 
 
