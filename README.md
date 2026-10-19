@@ -28,7 +28,7 @@
 ##┌──(tanvir㉿cyberworld)-[~]
 ##└─$ whoami
 
-# Hi! I'm Tanvir, a cybersecurity learner and technology enthusiast passionate about exploring digital security and building useful tech solutions.
+# Hi ! I'm Tanvir, a cybersecurity learner and technology enthusiast passionate about exploring digital security and building useful tech solutions.
 
 🔐 Interested in Ethical Hacking & Cybersecurity
 
