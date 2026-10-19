@@ -3,160 +3,101 @@
 # 👨‍💻 I'm MD. TANVIR AHMMED PIAS
 ## I am a running student as a " Diploma in Cyber security"
 
-⚡ Cyber Researcher | ⚡
- 
-![Profile Views](https://komarev.com/ghpvc/?username=tanvircss91&label=Profile+Views&color=00ff00&style=
+## ⚡Ethical Hacker | Cybersecurity Learner | SOC Analyst |  Cyber Researcher | Vuln Finder ⚡
 
-🧠 WHOAMI
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/tanvir123/tanvir123/main/cyber-banner.png"
+    width="100%"
+    alt="Tanvir Cybersecurity Banner"
+  />
+</p>
 
-$ whoami
-Name        : MD. Tanvir Ahmmed Pias
-Role        : Cybersecurity Researcher
-Focus       : Security Research
-Speciality  : Linux | OSINT | DORKING | NETWORK SCNNING | WEB VULN FIND
-Status      : Running Student as a Diploma in Cyber Security
-Mission     : Research • Investigate • Document • Improve
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+World;Ethical+Hacking+%7C+Cybersecurity;SOC+Analysis+%7C+Network+Security;Learning.+Securing.+Growing." alt="Typing SVG"/>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanvircss91&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" alt="Profile Views"/>
+</p>
 
-⚔️ CYBER MINDSET
-Think Like An Attacker
-Analyze Like An Investigator
-Defend Like A Professional
+⚡ ## About Me : 
 
-🔥 CURRENT OBJECTIVES
+┌──(tanvir㉿cyberworld)-[~]
+└─$ whoami
 
-✅ Build Advanced Cyber Lab
-✅ Master Linux Environment
-✅ Master OSINT Techniques
-✅ Learn Threat Hunting
-✅ Research Vulnerabilities
-✅ Develop Security Utilities
-✅ Contribute To Open Source
+## Hi! I'm Tanvir, a cybersecurity learner and technology enthusiast passionate about exploring digital security and building useful tech solutions.
 
-🖥️ CYBER LAB
+🔐 Interested in Ethical Hacking & Cybersecurity
 
-Host:
-  Windows 11 Pro
+🛡️ Learning SOC Analysis and Threat Detection
 
-Virtual Machines:
+🌐 Exploring Networking and Network Security
 
-  Kali Linux:
-    Purpose: Penetration Testing
+🐧 Working with Linux - Kali Linux - Parrot - BlackArch 
 
-  BlackArch:
-    Purpose: Advanced Research
+💻 Building cybersecurity and automation projects
 
-  BackBox:
-    Purpose: Security Assessment
+🎯 Goal: Become a skilled cybersecurity professional
 
-  Parrot Security:
-    Purpose: Security & Privacy
+## Learning. Securing. Growing.
 
-  Windows 11:
-    Purpose: Testing Environment
-    
-🛠️ RESEARCH DOMAINS
+## 🧠 Skills & Technologies
+### Programming language skills = Basic+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,github,vscode,python,html,css" alt="Technical Skills"/>
+</p>
 
-🔍 Reconnaissance
-OSINT
-Information Gathering
-Metadata Analysis
+##🔎 Cybersecurity Focus
 
-🛡️ Defensive Security
-Log Analysis
-Incident Response
-System Hardening
+Ethical Hacking · Network Security · SOC Analysis · Linux · Nmap · Wireshark · Web Security · Security Awareness
 
-⚔️ Offensive Security
-Vulnerability Research
-Security Testing
-Adversarial Thinking
+These represent my learning and interests, not a claim of professional mastery.
 
-🚀 TECHNOLOGY STACK
-Operating Systems
-LinuxKaliArchWindows
+##📊 GitHub Statistics
 
-Languages:
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanvircss91&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050B10" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvircss91&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050B10" alt="Top Languages"/>
+</p>
 
-None
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvircss91&theme=dark&hide_border=true&background=050B10&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak"/>
+</p>
 
-Tools:
+##🧪 Featured Projects
 
-Wireshark_Nmap_Metasploit_Burpsuite--
+🔐 Cyber Security Lab — Security learning and lab experiments
 
-📊 GITHUB STATS
+🛡️ SOC Analytics Dashboard — Security monitoring and log analysis
 
+🌐 Networking Lab — Networking concepts and practice
 
+💻 Personal Portfolio — My cybersecurity and technology portfolio
 
+Replace these examples with your actual repositories as you publish projects.
 
+##🎯 Current Mission
 
+[+] Learn new security concepts
+[+] Practice in authorized labs
+[+] Build real-world projects
+[+] Improve Linux and networking skills
+[+] Grow as a cybersecurity professional
 
-📈 ACTIVITY GRAPH
+##🤝 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/tanvircss91">
+    <img src="https://img.shields.io/badge/GitHub-Profile-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmmed-pias">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-🐍 CONTRIBUTION SNAKE
-
-
-🎯 RESEARCH WORKFLOW
-TARGET
-   ↓
-RECON
-   ↓
-COLLECTION
-   ↓
-ANALYSIS
-   ↓
-INVESTIGATION
-   ↓
-DOCUMENTATION
-   ↓
-REPORTING
-📂 REPOSITORY CATEGORIES
-📌 Cybersecurity Notes
-
-📌 Linux Notes
-
-📌 OSINT Projects
-
-📌 Threat Research
-
-📌 Custom Utilities
-
-📌 Research Reports
-
-☕ PHILOSOPHY:
-
-Knowledge Creates Capability
-Capability Creates Opportunity
-Opportunity Creates Impact
-
-
-🌐 CONNECT:
-
-GitHub:
-  https://github.com/tanvircss91
-
-Location:
-        DHAKA ( Bangladesh )
-
-Status:
-  Researching...
-
-[ SYSTEM ONLINE ]
-
-Research Mode     : ACTIVE
-Learning State    : RUNNING
-Threat Analysis   : ENABLED
-
-⚡ STAY CURIOUS • STAY ETHICAL • STAY SECURE ⚡
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <code>root@tanvir:~$ Keep_Learning_Keep_Securing</code>
+  <br/><br/>
+  **"Think like a defender. Learn like a researcher. Build for a safer digital world."**
+</p>
