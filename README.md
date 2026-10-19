@@ -54,7 +54,7 @@
   <a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.simpleicons.org/ubuntu/E95420" width="65" height="65" alt="Ubuntu"/></a>&nbsp;
   <a href="https://parrotsec.org/" target="_blank"><img src="https://cdn.simpleicons.org/parrotsecurity/15E0ED" width="65" height="65" alt="Parrot OS"/></a>&nbsp;
   <a href="https://blackarch.org/" target="_blank"><img src="https://img.shields.io/badge/BlackArch-181818?style=for-the-badge&logo=archlinux&logoColor=white" height="65" alt="BlackArch"/></a>&nbsp;
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.simpleicons.org/windows/0078D4" width="65" height="65" alt="Windows"/></a>&nbsp;
+  <a href="https://www.microsoft.com/en-us/software-download" target="_blank"><img src="https://share.google/pcISjODOIu3cPpLgE" width="65" height="65" alt="Windows"/></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="65" height="65" alt="GitHub"/></a>&nbsp;
   <a href="https://www.apple.com/macos/" target="_blank"><img src="https://cdn.simpleicons.org/apple/FFFFFF" width="65" height="65" alt="macOS"/></a>
 </p>
