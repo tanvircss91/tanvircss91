@@ -60,7 +60,6 @@
 
 <p align="center">
   <a href="https://www.android.com/" target="_blank"><img src="https://cdn.simpleicons.org/android/3DDC84" width="65" height="65" alt="Android"/></a>&nbsp;
-  <a href="https://www.apple.com/ios/" target="_blank"><img src="https://cdn.simpleicons.org/apple/FFFFFF" width="65" height="65" alt="iOS"/></a>&nbsp;
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="65" height="65" alt="Wireshark"/></a>&nbsp;
   <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/2596CD" width="65" height="65" alt="Metasploit"/></a>&nbsp;
   <a href="https://tails.net/" target="_blank"><img src="https://cdn.simpleicons.org/tails/56347C" width="65" height="65" alt="Tails"/></a>&nbsp;
