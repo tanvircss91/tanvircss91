@@ -13,11 +13,10 @@
 
 <div align="center">
   <h3>⟢ CYBER VISITOR MONITOR ⟣</h3>
-<div align="center">
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=tanvircss91&label=CYBER%20VISITORS&color=00e5ff&style=for-the-badge"
-    alt="Cyber Visitor Counter"
+    src="https://viewcounter.live/YOUR_GITHUB_USERNAME?label=PROFILE%20VISITS&bg_color=050B12&text_color=00E5FF&rounded=true&digits=6"
+    alt="Cyber Digital Profile Views"
   />
 </p>
 
