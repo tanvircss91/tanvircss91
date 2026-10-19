@@ -43,42 +43,37 @@
 
 # 🧠 Skills & Technologies
 ## Programming language skills = Basic+
-## 🛠️ Skills & Technologies
 
-## 🛡️ Cybersecurity Skills & Technologies
+# 🛡️ Cybersecurity Skills & Technologies
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="55" height="55" alt="Kali Linux" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="55" height="55" alt="Ubuntu" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/parrotsecurity/15AABF" width="55" height="55" alt="Parrot OS" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="55" height="55" alt="BlackArch" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/windows/0078D4" width="55" height="55" alt="Windows" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="55" height="55" alt="Apple" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="55" height="55" alt="Android" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=17202A" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=17202A" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Parrot_OS-15AABF?style=for-the-badge&logo=linux&logoColor=white&labelColor=17202A" alt="Parrot OS" />
+  <img src="https://img.shields.io/badge/BlackArch-111111?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=17202A" alt="BlackArch" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=17202A" alt="Windows" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=17202A" alt="GitHub" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=17202A" alt="macOS" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=17202A" alt="Android" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=17202A" alt="iOS" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="55" height="55" alt="Wireshark" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" width="55" height="55" alt="Metasploit" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="55" height="55" alt="Burp Suite" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/tails/56347C" width="55" height="55" alt="Tails" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="55" height="55" alt="VS Code" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="55" height="55" alt="HTML5" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="55" height="55" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=17202A" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=17202A" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white&labelColor=17202A" alt="Tails" />
+  <img src="https://img.shields.io/badge/Dark_Web-333333?style=for-the-badge&logo=torproject&logoColor=white&labelColor=17202A" alt="Dark Web" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=17202A" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=17202A" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=17202A" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=17202A" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=17202A" alt="Burp Suite" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OSINT-Research-00804A?style=for-the-badge&labelColor=17202A" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Google_Dorking-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=17202A" alt="Google Dorking" />
+  <img src="https://img.shields.io/badge/Information_Gathering-Recon-6A35B5?style=for-the-badge&labelColor=17202A" alt="Information Gathering" />
 </p>
 
 
