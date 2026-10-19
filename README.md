@@ -21,7 +21,7 @@
   <h3>◈ VISITOR INTELLIGENCE SYSTEM ◈</h3>
 
   <img
-    src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=VISITOR%20ACCESS&color=00E5FF&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=tanvircss91&label=VISITOR%20ACCESS&color=00E5FF&style=for-the-badge"
     alt="Visitor Counter"
   />
 
