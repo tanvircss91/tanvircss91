@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=tanvircss91&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-⚡ # About Me : 
+# About Me : 
 
 ##┌──(tanvir㉿cyberworld)-[~]
 ##└─$ whoami
