@@ -7,9 +7,8 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tanvir123/tanvir123/main/cyber-banner.png"
+    src="https://github.com/tanvircss91/tanvircss91/blob/main/tanvir.png"
     width="100%"
-    alt="Tanvir Cybersecurity Banner"
   />
 </p>
 
