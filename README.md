@@ -46,37 +46,6 @@
 
 # 🛡️ Cybersecurity Skills & Technologies
 
-## 🛡️ Cybersecurity Skills
-
-<p align="center">
-  <img src="icons/kali-linux.svg" width="72" alt="Kali Linux" />
-  <img src="icons/ubuntu.svg" width="72" alt="Ubuntu" />
-  <img src="icons/parrot.svg" width="72" alt="Parrot OS" />
-  <img src="icons/blackarch.svg" width="72" alt="BlackArch" />
-  <img src="icons/windows.svg" width="72" alt="Windows" />
-  <img src="icons/github.svg" width="72" alt="GitHub" />
-  <img src="icons/mac.svg" width="72" alt="macOS" />
-</p>
-
-<p align="center">
-  <img src="icons/android.svg" width="72" alt="Android" />
-  <img src="icons/ios.svg" width="72" alt="iOS" />
-  <img src="icons/wireshark.svg" width="72" alt="Wireshark" />
-  <img src="icons/metasploit.svg" width="72" alt="Metasploit" />
-  <img src="icons/tails.svg" width="72" alt="Tails" />
-  <img src="icons/dark-web.svg" width="72" alt="Dark Web" />
-  <img src="icons/vscode.svg" width="72" alt="VS Code" />
-</p>
-
-<p align="center">
-  <img src="icons/python.svg" width="72" alt="Python" />
-  <img src="icons/html.svg" width="72" alt="HTML5" />
-  <img src="icons/css.svg" width="72" alt="CSS3" />
-  <img src="icons/burpsuite.svg" width="72" alt="Burp Suite" />
-  <img src="icons/osint.svg" width="72" alt="OSINT" />
-  <img src="icons/dorking.svg" width="72" alt="Google Dorking" />
-  <img src="icons/information-gathering.svg" width="72" alt="Information Gathering" />
-</p>
 
 
 ## 🔎 Cybersecurity Focus
