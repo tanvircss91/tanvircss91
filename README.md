@@ -9,10 +9,34 @@
   <img src="https://github.com/tanvircss91/tanvircss91/blob/main/tanvir..png" width="100%" alt="Cybersecurity Banner"/></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Welcome+to+my+Cyber+World;Ethical+Hacking+%7C+Cybersecurity;SOC+Analysis+%7C+Network+Security;Learning.+Securing.+Growing." alt="Typing SVG"/></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hello+Friends;This+is+MD.+Tanvir+Ahmmed+Pias;Welcome+to+my+Cyber+World;Ethical+Hacking+%7C+Cybersecurity;SOC+Analysis+%7C+Network+Security;Learning.+Securing.+Growing." alt="Typing SVG"/></p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvircss91&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge" alt="Profile Views"/></p>
+<div align="center">
+
+  <h3>⟢ CYBER VISITOR MONITOR ⟣</h3>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=tanvircss91&label=PROFILE%20VISITS&color=00e5ff&style=for-the-badge"
+    alt="Profile Visitor Counter"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://img.shields.io/badge/SYSTEM-CYBER_DEFENSE-080D16?style=for-the-badge&labelColor=101B2A"
+    alt="Cyber Defense"
+  />
+
+  <img
+    src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge&labelColor=080D16"
+    alt="Online Status"
+  />
+
+  <br/>
+
+  <sub>◈ DIGITAL FOOTPRINT · ACCESS MONITOR ◈</sub>
+
+</div>
 
 # About Me : 
 
