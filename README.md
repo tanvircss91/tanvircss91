@@ -3,7 +3,7 @@
 # 👨‍💻 I'm MD. TANVIR AHMMED PIAS
 ## I am a running student as a " Diploma in Cyber security"
 
-## ⚡Ethical Hacker | Cybersecurity Learner | SOC Analyst |  Cyber Researcher | Vuln Finder ⚡
+## ⚡Ethical Hacker | Cybersecurity Learner | SOC Analyst |  Cyber Researcher | Vuln Finder
 
 <p align="center">
   <img src="https://github.com/tanvircss91/tanvircss91/blob/main/tanvir..png" width="100%" alt="Cybersecurity Banner"/></p>
