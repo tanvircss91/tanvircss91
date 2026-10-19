@@ -83,7 +83,7 @@
   </a>
   &nbsp;
   <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   </a>
 </p>
 
