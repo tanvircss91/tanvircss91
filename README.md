@@ -12,15 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Hello+Friends;This+is+~+MD.+Tanvir+Ahmmed+Pias;Welcome+to+my+Cyber+World;Ethical+Hacking+%7C+Cybersecurity;SOC+Analysis+%7C+Network+Security;Learning.+Securing.+Growing." alt="Typing SVG"/></p>
 
 <div align="center">
-
   <h3>⟢ CYBER VISITOR MONITOR ⟣</h3>
-
- 
 <div align="center">
-
-  <h3>◈ VISITOR INTELLIGENCE SYSTEM ◈</h3>
-  
-
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=tanvircss91&label=CYBER%20VISITORS&color=00e5ff&style=for-the-badge"
