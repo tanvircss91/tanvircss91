@@ -47,13 +47,13 @@
   <img src="https://skillicons.dev/icons?i=linux,windows,mac,parrot,blackarch,github,vscode,python,html,css" alt="Technical Skills"/>
 </p>
 
-##🔎 Cybersecurity Focus
+## 🔎 Cybersecurity Focus
 
 Ethical Hacking · Network Security · SOC Analysis · Linux · Nmap · Wireshark · Web Security · Security Awareness
 
 These represent my learning and interests, not a claim of professional mastery.
 
-#📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanvircss91&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050B10" alt="GitHub Stats"/>
@@ -64,7 +64,7 @@ These represent my learning and interests, not a claim of professional mastery.
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvircss91&theme=dark&hide_border=true&background=050B10&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" alt="GitHub Streak"/>
 </p>
 
-#🧪 Featured Projects
+# 🧪 Featured Projects
 
 🔐 Cyber Security Lab — Security learning and lab experiments
 
@@ -76,7 +76,7 @@ These represent my learning and interests, not a claim of professional mastery.
 
 Replace these examples with your actual repositories as you publish projects.
 
-#🎯 Current Mission
+# 🎯 Current Mission
 
 [+] Learn new security concepts
 [+] Practice in authorized labs
@@ -84,7 +84,7 @@ Replace these examples with your actual repositories as you publish projects.
 [+] Improve Linux and networking skills
 [+] Grow as a cybersecurity professional
 
-#🤝 Connect With Me
+# 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/tanvircss91">
