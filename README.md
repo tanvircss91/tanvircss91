@@ -19,23 +19,6 @@
     src="https://komarev.com/ghpvc/?username=tanvircss91&label=PROFILE%20VISITS&color=00e5ff&style=for-the-badge"
     alt="Profile Visitor Counter"
   />
-
-  <br/><br/>
-
-  <img
-    src="https://img.shields.io/badge/SYSTEM-CYBER_DEFENSE-080D16?style=for-the-badge&labelColor=101B2A"
-    alt="Cyber Defense"
-  />
-
-  <img
-    src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge&labelColor=080D16"
-    alt="Online Status"
-  />
-
-  <br/>
-
-  <sub>◈ DIGITAL FOOTPRINT · ACCESS MONITOR ◈</sub>
-
 </div>
 
 # About Me : 
