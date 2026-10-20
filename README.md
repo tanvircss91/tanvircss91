@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img> src="https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username&style=flat-square" </img>
+  <img src="https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username&style=flat-square"/>
 </p>
 
 # About Me : 
