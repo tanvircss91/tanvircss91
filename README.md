@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanvircss91&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="![](https://profileviews.blueorbitdevs.workers.dev/?username=your-github-username&style=flat-square)" />
 </p>
 
 # About Me : 
