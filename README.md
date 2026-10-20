@@ -128,10 +128,19 @@ Replace these examples with your actual repositories as you publish projects.
 
 <p align="center">
   <a href="https://github.com/tanvircss91">
-    <img src="https://img.shields.io/badge/GitHub-Profile-00FF99?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/md-tanvir-ahmmed-pias">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61590954730509">
+    <img src="https://img.shields.io/badge/Facebook-00FF99?style=for-the-badge&logo=facebook&logoColor=black"/>
+  </a>
+  <a href="https://youtube.com/@YOUR_CHANNEL">
+    <img src="https://img.shields.io/badge/YouTube-FF3131?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1527622528003084348">
+    <img src="https://img.shields.io/badge/Discord-B026FF?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
