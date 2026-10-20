@@ -127,23 +127,47 @@ Replace these examples with your actual repositories as you publish projects.
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/tanvircss91">
-    <img src="https://img.shields.io/badge/GitHub-00FF00?style=for-the-badge&logo=github&logoColor=black"/>
+  <p align="center">
+  <a href="https://github.com/tanvircss91" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/md-tanvir-ahmmed-pias">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+
+  <a href="https://www.linkedin.com/in/md-tanvir-ahmmed-pias" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=61590954730509">
-    <img src="https://img.shields.io/badge/Facebook-00FF99?style=for-the-badge&logo=facebook&logoColor=black"/>
+
+  <a href="https://www.facebook.com/profile.php?id=61590954730509" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-FF3131?style=for-the-badge&logo=youtube&logoColor=white"/>
+
+  <a href="https://x.com/md_pias38039" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1527622528003084348">
-    <img src="https://img.shields.io/badge/Discord-B026FF?style=for-the-badge&logo=discord&logoColor=white"/>
+
+  <a href="https://www.instagram.com/tanvirahmmedpias/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="https://discord.com/users/1527622528003084348" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="mailto:mdtanvirahmmedpias@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00FF99?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
 </p>
-
 <p align="center">
   <code>root@tanvir:~$ Keep_Learning_Keep_Securing</code>
   <br/><br/>
